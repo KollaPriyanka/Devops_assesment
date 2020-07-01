@@ -11,8 +11,8 @@ public class EmployeeDAO
      
     static
     {
-        list.getEmployeeList().add(new Employee(1,"Kris", "dharanidharkrish@gmail.com","Krish"));
-        list.getEmployeeList().add(new Employee(2, "Sai", "saitej123@gmail.com","Tej"));
+        list.getEmployeeList().add(new Employee(1,"Priyanka", "priyankakolla16@gmail.com","Kolla"));
+        list.getEmployeeList().add(new Employee(2, "Suma", "suma123@gmail.com","varshi"));
         list.getEmployeeList().add(new Employee(3, "Mani","manikanta123@gmail.com", "kanta"));
         list.getEmployeeList().add(new Employee(4, "Aman", "aman123@gmail.com" ,"Roy"));
     }
